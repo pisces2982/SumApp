@@ -7,7 +7,7 @@ clusters:
 contexts:
 - context:
     cluster: optumera
-    namespace: calc-backend
+    namespace: user9
     user: user9
   name: optumera-context
 current-context: optumera-context
